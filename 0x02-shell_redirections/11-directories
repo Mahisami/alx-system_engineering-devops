@@ -1,2 +1,2 @@
 #!/bin/bash
-touch hello
+find ./* -type d -print | wc -l
