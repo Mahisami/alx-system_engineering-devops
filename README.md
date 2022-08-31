@@ -1,1 +1,1 @@
-'current_working_directory'
+'current_worling_directory'
